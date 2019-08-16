@@ -1,0 +1,15 @@
+{
+  "name": "primerprocesoennode",
+  "version": "1.0.0",
+  "description": "primer proceso en node",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
